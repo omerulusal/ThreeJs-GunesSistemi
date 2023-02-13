@@ -4,3 +4,4 @@ Kod, 12 farklı gezegenin, güneşin ve halkalarının boyut, görünüm ve konu
 Ayrıca, sahne, kamera, ışıklandırma ve animasyonu yönetmek için gerekli olan diğer bileşenleri de tanımlar. 
 Son olarak, kod, gezegenleri döndürmek için bir döngü oluşturur.
 
+SON HALİ===> https://gunessistemi.netlify.app/
