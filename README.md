@@ -7,5 +7,5 @@ Son olarak, kod, gezegenleri döndürmek için bir döngü oluşturur.
 SON HALİ===> https://gunessistemi.netlify.app/
 
 
-https://user-images.githubusercontent.com/96357374/218467331-86b41ca5-e806-4250-aba4-4f2e8f383136.mp4
 
+![gif](https://user-images.githubusercontent.com/96357374/218467673-85298a05-d1a4-4646-85f7-a3585126a975.gif)
